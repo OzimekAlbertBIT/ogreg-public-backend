@@ -12,7 +12,7 @@ public class OgregPublicBackendApplication {
 
     @GetMapping("/message")
     public String message() {
-        return "Congratulations. Your app has been deployed successfully in Azure 222";
+        return "Congratulations. Your app has been deployed successfully in Azure 333";
     }
 
 
